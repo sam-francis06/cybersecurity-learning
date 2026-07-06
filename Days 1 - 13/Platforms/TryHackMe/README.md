@@ -43,18 +43,7 @@ TryHackMe/
 ├── README.md
 ├── Completed Rooms.md
 ├── Learning Paths.md
-│
-├── Web Security/
-├── Linux/
-├── Networking/
-├── Offensive Security/
-├── Defensive Security/
-├── Digital Forensics/
-├── OSINT/
-├── Challenge Rooms/
-│
-├── Cheatsheets/
-└── Templates/
+└── Knowledge-Base.md/
 ```
 
 ---
