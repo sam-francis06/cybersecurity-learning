@@ -82,27 +82,6 @@ The goal is a long-term reference that reinforces concepts through documentation
 
 ---
 
-## 📂 Repository Structure
-
-```text
-cybersecurity-learning/
-│
-├── README.md
-│
-├── Day 1-13/
-│   └── Platforms/
-│       ├── TryHackMe/
-│       ├── CyLabAcademy/
-│       └── OverTheWire/
-│
-├── Cheatsheets/
-├── Notes/
-├── Scripts/
-└── Resources/
-```
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p>
