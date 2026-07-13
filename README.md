@@ -47,7 +47,7 @@ My goal is to continuously sharpen my technical skills, strengthen my problem-so
 | 🛡️ [TryHackMe](https://tryhackme.com/p/FrancisSamuvel) | Active |
 | 🏆 [CyLab Security Academy](https://learn.cylabacademy.org/users/Samenfr) | Active |
 | ⚔️ OverTheWire | Active |
-| 🌐 PortSwigger Web Security Academy | Upcoming |
+| 🌐 PortSwigger Web Security Academy | Active |
 
 ### Primary Focus Areas
 
