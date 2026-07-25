@@ -72,7 +72,7 @@
 
 Day 32 focused on maintaining consistent cybersecurity learning through incremental progress rather than completing new rooms. Work continued on the **25 Days of Cyber Security** walkthrough by completing the first four tasks, strengthening foundational cybersecurity knowledge while preparing for the remaining sections of the room. Additionally, two CyLab Security Academy challenges reinforced Linux command-line skills, file analysis techniques, and practical problem-solving through hands-on exercises. Although no new TryHackMe challenge rooms or PortSwigger labs were completed today, the focus remained on steady skill development and reinforcing core concepts.
 
-### Skills Practiced
+### Skills That Practiced
 
 * Linux Fundamentals
 * Command-Line Navigation
