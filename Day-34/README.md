@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Day 34 — Cybersecurity Learning Progress
