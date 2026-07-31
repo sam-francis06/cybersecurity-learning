@@ -1,8 +1,10 @@
+<div align="center">
+  
 # Day 39 — Cybersecurity Learning Progress
 
 ### Practical Cybersecurity Training and CTF Challenge Solving
 
-<div align="center">
+
 
 [![TryHackMe Rooms](https://img.shields.io/badge/TryHackMe%20Rooms-154-DC2626?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com)
 [![THM Challenges](https://img.shields.io/badge/THM%20Challenges-79-EA580C?style=for-the-badge\&logo=target\&logoColor=white)]()
