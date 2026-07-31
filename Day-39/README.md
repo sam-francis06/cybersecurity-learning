@@ -19,9 +19,9 @@
 
 ### TryHackMe — Walkthrough
 
-| Room             | Focus Area                                                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Walkthrough Room | Practical enumeration, exploitation methodology, privilege escalation concepts, and hands-on cybersecurity learning |
+| Room | Focus Area                                    |
+| ---- | --------------------------------------------- |
+| None | No TryHackMe walkthrough room completed today |
 
 ### TryHackMe — Challenge Rooms
 
@@ -33,23 +33,23 @@
 
 | Challenge       | Focus Area                                                                                    |
 | --------------- | --------------------------------------------------------------------------------------------- |
-| Crack the Power | Cryptography, password cracking concepts, logical analysis, and practical CTF problem solving |
+| Crack the Power | Cryptography, password-related analysis, logical reasoning, and practical CTF problem solving |
 
 ### PortSwigger Web Security Academy — Completed Labs
 
-| Lab                      | Focus Area                                                                                                                         |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Web Security Academy Lab | Practical web application security testing, vulnerability identification, exploitation techniques, and secure development concepts |
+| Lab  | Focus Area                                              |
+| ---- | ------------------------------------------------------- |
+| None | No PortSwigger Web Security Academy lab completed today |
 
 ### Activity Breakdown
 
 | Platform                         | Category                 | Completed |
 | -------------------------------- | ------------------------ | :-------: |
-| TryHackMe                        | Walkthrough Rooms        |     1     |
+| TryHackMe                        | Walkthrough Rooms        |     0     |
 | TryHackMe                        | Challenge Rooms          |     1     |
 | CyLab Security Academy           | Challenges               |     1     |
-| PortSwigger Web Security Academy | Labs                     |     1     |
-| **Total**                        | **Practical Activities** |   **4**   |
+| PortSwigger Web Security Academy | Labs                     |     0     |
+| **Total**                        | **Practical Activities** |   **2**   |
 
 ---
 
@@ -68,22 +68,19 @@
 
 ## About Day 39
 
-Day 39 continued the focus on practical cybersecurity training through hands-on labs and CTF-style challenges. A **TryHackMe walkthrough** reinforced the core methodology of enumeration, exploitation, and privilege escalation in a practical environment. The **Packed Light** challenge room provided additional experience in web application enumeration, vulnerability analysis, and structured CTF problem solving. On **CyLab Security Academy**, completing **Crack the Power** strengthened cryptographic reasoning, logical analysis, and problem-solving skills commonly encountered in security competitions. A **PortSwigger Web Security Academy** lab further improved practical web application security testing skills by reinforcing vulnerability identification and exploitation techniques. Together, today's activities contributed to stronger offensive security knowledge, analytical thinking, and hands-on experience.
+Day 39 focused on strengthening practical cybersecurity skills through hands-on CTF challenges and cryptography-based problem solving. The **TryHackMe** challenge room **Packed Light** provided practical experience in web application enumeration, vulnerability analysis, exploitation techniques, and structured CTF problem solving. On **CyLab Security Academy**, completing **Crack the Power** reinforced cryptographic reasoning, password-related concepts, logical analysis, and analytical thinking commonly required during security assessments and CTF competitions. Although no **TryHackMe walkthrough** or **PortSwigger Web Security Academy** lab was completed today, the day's practice contributed to improving offensive security fundamentals and problem-solving abilities.
 
 ### Skills Practiced
 
-* Enumeration and Reconnaissance
-* Web Application Security
+* Web Application Enumeration
 * Vulnerability Analysis
 * Exploitation Techniques
-* Privilege Escalation Concepts
 * Cryptography
-* Password Cracking Concepts
-* Logical Problem Solving
-* Web Security Testing
-* Vulnerability Identification
-* Secure Development Awareness
+* Password Analysis
+* Logical Reasoning
 * CTF Problem Solving
+* Analytical Thinking
+* Offensive Security Fundamentals
 
 ---
 
@@ -91,6 +88,6 @@ Day 39 continued the focus on practical cybersecurity training through hands-on 
 
 **Day 39 Progress**
 
-**4 Practical Activities Completed · 401 Total Practical Learning Activities**
+**2 Practical Activities Completed · 401 Total Practical Learning Activities**
 
 </div>
