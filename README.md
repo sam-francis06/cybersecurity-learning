@@ -141,6 +141,6 @@ This repository is maintained for **educational purposes only**. All practical e
 
 > *"The best way to learn cybersecurity is by doing it."*
 
-**Last updated: July 2026**
+**Last updated: Aug 2026**
 
 </div>
